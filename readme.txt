@@ -1,2 +1,2 @@
-Git is a verion control systeam.
+Git is a distributed verion control systeam.
 Git is free software.
